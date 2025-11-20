@@ -1,7 +1,5 @@
 # 🧬 Unveiling Regulatory Genes in Pancreatic Cancer Through Single-Cell RNA Sequencing
 
-This repository contains the analysis pipeline and documentation for my **Minor Project**:  
-**Unveiling Regulatory Genes in Pancreatic Cancer Through Single-Cell RNA Sequencing (scRNA‑seq)**  
 ---
 
 ## 📖 Project Overview
